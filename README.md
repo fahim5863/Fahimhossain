@@ -32,5 +32,5 @@
   <p>
     <b>progmer info<b/>
   </p>
-     <center> <img src="progmerfahim.jpg"></center>
+     <center> <img src="Picsart_24-10-29_01-18-51-622.jpg"></center>
 </html>
