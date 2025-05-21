@@ -2,7 +2,7 @@
   <body>
     <center><p><h1>All Information About Coaching</h1></p></center>
     <p>I Will Try To Make A Website Plz Support Me Thank You</p>
-    <p>ATTENDANCE OF YEAR FINAL EXAM
+    <center><p>ATTENDANCE OF YEAR FINAL EXAM
       <table>
         <tr>
           <td>
@@ -18,10 +18,12 @@
           <td >
             <ol type="1" start="2">
               <li><a href="april.html"> This Is Our April Attendance </a></li>
+            </ol>
           </td>
         </tr>
       </table>
-  </p>
     
+  </p>
+  </center>
   </body>
 </html>
